@@ -29,4 +29,12 @@ Docs for the work
 - https://paper.dropbox.com/doc/Macroeconomics-and-Capitalism-Topics-list--AgUTmahnyguE9CtGyBI2KwqgAQ-BzfT1Gup9sY7oAVCOuGSn
 - https://paper.dropbox.com/doc/Create-a-doc-from-RaceHound-findings--AgU~hbNfRmzwm2UVoo05MFzJAQ-SMgulkthIKk0MwKQVvRL5
 
+## GitHub Teams
+- @aws
+- @docs
+- @opensource
+- @research
+- @socialmedia
+- @test
+- @writing
 
