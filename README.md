@@ -31,6 +31,7 @@ Docs for the work
 
 ## GitHub Teams
 - @aws
+- @blog
 - @design
 - @docs
 - @opensource
