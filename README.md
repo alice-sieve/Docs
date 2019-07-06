@@ -28,6 +28,14 @@ Docs for the work
 - https://paper.dropbox.com/doc/Document-comparing-different-computer-vision-libraries--AgWEd1abtR3rAus5X3rWov1dAQ-OA5puDAhtWmBglYfkp9so
 - https://paper.dropbox.com/doc/Macroeconomics-and-Capitalism-Topics-list--AgUTmahnyguE9CtGyBI2KwqgAQ-BzfT1Gup9sY7oAVCOuGSn
 - https://paper.dropbox.com/doc/Create-a-doc-from-RaceHound-findings--AgU~hbNfRmzwm2UVoo05MFzJAQ-SMgulkthIKk0MwKQVvRL5
+- https://paper.dropbox.com/doc/httpshipc.orgcall-for-papers--AgZh4dd3qXC5aa5xedDUeKqFAQ-S6C6TmXgVbGcCgXLpmmmu
+- https://paper.dropbox.com/doc/httpwww.jgenomics.com--AgbLGE~gW88OwwWpen3es9YPAQ-mQO820gBAn7LO1nqyTbrl
+- https://paper.dropbox.com/doc/httpsgenome.cshlp.org--AgYpZBaSQHfwWdxapAn8FJwFAQ-NFTF5rByhgVsGHWxCA4gu
+- https://paper.dropbox.com/doc/httpswww.usenix.orgconferencepepr19--Agbb9k5iizZpxePSmKPHzrOtAQ-CCV5lDpArw49tuIMJRgyy
+- https://paper.dropbox.com/doc/httpswww.usenix.orgconferencefoci19call-for-papers--AgbIHYgw3kcdqJsqUJtXjn4xAQ-H1eS3yeYxB99JMq8XUZBV
+- https://paper.dropbox.com/doc/httpswww.usenix.orgconferencensdi20call-for-papers--AgZ3_vrc1aBVvGe~qPLuShZuAQ-Y5QjWut5NBBwVPfJ8OwFH
+- https://paper.dropbox.com/doc/httpswww.usenix.orgconferencelisa19call-for-participation--AgYxFC~RfEUcPeKamp7I6z9OAQ-7ENFz3D0aO23Mfdo1Nli2
+- https://paper.dropbox.com/doc/httpscra.orgccccs-social-good-white-paper-competition--AgaUVA3oXUwY82_vTokxusa4AQ-1xKRCd0KkR5g14QkSfwI9
 
 ## GitHub Teams
 - @aws
