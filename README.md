@@ -36,6 +36,7 @@ Docs for the work
 - https://paper.dropbox.com/doc/httpswww.usenix.orgconferencensdi20call-for-papers--AgZ3_vrc1aBVvGe~qPLuShZuAQ-Y5QjWut5NBBwVPfJ8OwFH
 - https://paper.dropbox.com/doc/httpswww.usenix.orgconferencelisa19call-for-participation--AgYxFC~RfEUcPeKamp7I6z9OAQ-7ENFz3D0aO23Mfdo1Nli2
 - https://paper.dropbox.com/doc/httpscra.orgccccs-social-good-white-paper-competition--AgaUVA3oXUwY82_vTokxusa4AQ-1xKRCd0KkR5g14QkSfwI9
+- https://paper.dropbox.com/doc/bhaskar-tapasweni-writing--Ag1aiQAI9JXjoUpOEQpuKJFnAg-K4HHpyFduB9firOgUFQs3
 
 ## GitHub Teams
 - @aws
