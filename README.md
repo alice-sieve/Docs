@@ -37,6 +37,11 @@ Docs for the work
 - https://paper.dropbox.com/doc/httpswww.usenix.orgconferencelisa19call-for-participation--AgYxFC~RfEUcPeKamp7I6z9OAQ-7ENFz3D0aO23Mfdo1Nli2
 - https://paper.dropbox.com/doc/httpscra.orgccccs-social-good-white-paper-competition--AgaUVA3oXUwY82_vTokxusa4AQ-1xKRCd0KkR5g14QkSfwI9
 - https://paper.dropbox.com/doc/bhaskar-tapasweni-writing--Ag1aiQAI9JXjoUpOEQpuKJFnAg-K4HHpyFduB9firOgUFQs3
+- https://paper.dropbox.com/doc/Humans-Behavior-and-Genomes-datasets-Research-Topics--AhLLDLGknK321QGAlOu50gPDAQ-ie1Mv3dcqbN4yaKj0hC2t
+- https://paper.dropbox.com/doc/Long-lasting-impactful-visualisation-implementation--AhLWA_~TGj~Jbv4YboNCbO1jAQ-riQtyvdNxGEOy0hRUOdof
+- https://paper.dropbox.com/doc/Long-lasting-impactful-visualisation-implementation--AhLWA_~TGj~Jbv4YboNCbO1jAQ-riQtyvdNxGEOy0hRUOdof
+- https://paper.dropbox.com/doc/genomics-sample-summary--AhINlNfnL6dfYNbNk14uXwFdAQ-6hlM3Fi5rIGWHlrUFvBjd
+- https://paper.dropbox.com/doc/econ-final-document--AhLqi1n7j~tyOrQr9M7XfBbdAQ-OsVqcEpAGyLQDDPN6PUtD
 
 ## GitHub Teams
 - @aws
